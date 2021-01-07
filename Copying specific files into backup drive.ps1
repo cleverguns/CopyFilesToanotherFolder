@@ -1,0 +1,1 @@
+﻿Copy-Item "C:\Users\c\Downloads\sample.txt" -Destination "E:\"
